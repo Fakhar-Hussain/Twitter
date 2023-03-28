@@ -1,0 +1,85 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/NerkoOne-Regular.ttf",
+      "sha1": "16497010793175991f7ebfecd21eb091b122b9e8"
+    },
+    {
+      "path": "assets/fonts/Overpass-Black.ttf",
+      "sha1": "0195b73ce476f05dd9421de16d9f9fd2109d463e"
+    },
+    {
+      "path": "assets/fonts/Overpass-Bold.ttf",
+      "sha1": "e420e1174dd8cda693ffd247d31ae6f3bd1681b7"
+    },
+    {
+      "path": "assets/fonts/Overpass-ExtraLight.ttf",
+      "sha1": "f4a466c00975961894636b410bc518c16c348d7d"
+    },
+    {
+      "path": "assets/fonts/Overpass-Light.ttf",
+      "sha1": "52468851c02639791989b60d4b7f0fea21215081"
+    },
+    {
+      "path": "assets/fonts/Overpass-Medium.ttf",
+      "sha1": "fecb003e384b102093e529d6e0de15e2c1d314ea"
+    },
+    {
+      "path": "assets/fonts/Overpass-Regular.ttf",
+      "sha1": "0dab6623885d01676c91a370c6d450b6cc9dce9b"
+    },
+    {
+      "path": "assets/fonts/Overpass-Thin.ttf",
+      "sha1": "c980d3f0238678fb30d73fc63aef7ff49a1ae6ce"
+    },
+    {
+      "path": "assets/fonts/PatrickHand-Regular.ttf",
+      "sha1": "8e9d9952d4f107775141b5ae00eeb3cac3a19d46"
+    },
+    {
+      "path": "assets/fonts/Sono_Monospace-Bold.ttf",
+      "sha1": "cff9b78b4db31852d6fc04a7f619318f913d9ded"
+    },
+    {
+      "path": "assets/fonts/Sono_Monospace-ExtraBold.ttf",
+      "sha1": "a3f08cf15e949fa48d79a2332469109e90067591"
+    },
+    {
+      "path": "assets/fonts/Sono_Monospace-ExtraLight.ttf",
+      "sha1": "4d64d657de4e8696a4ced8cfbf33ae0e59c60440"
+    },
+    {
+      "path": "assets/fonts/Sono_Monospace-Light.ttf",
+      "sha1": "affb40cfb47708995f2b6a4a976ce3ceed52a396"
+    },
+    {
+      "path": "assets/fonts/Sono_Monospace-Medium.ttf",
+      "sha1": "c7dc0f6397d20e6c2004a2ac028f9c349750b78c"
+    },
+    {
+      "path": "assets/fonts/Sono_Monospace-Regular.ttf",
+      "sha1": "6e2f371a1b0dfdfb06eb2aba2ae921304d3c21e7"
+    },
+    {
+      "path": "assets/fonts/Sono_Monospace-SemiBold.ttf",
+      "sha1": "d1b03667d7fa7659eedc6365dcb41b7067a1fdac"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Bold.ttf",
+      "sha1": "020aaec9cdeb59aa8ebd2e4c693527cddb2d1577"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Light.ttf",
+      "sha1": "d060b0ff74b379dcc3d10ac2d024602af419d9f0"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Medium.ttf",
+      "sha1": "da662f767e6261491e20da197bd7ffbb7a7d122c"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Regular.ttf",
+      "sha1": "8238e55f0320c3abc74057c988367c2f25fa3727"
+    }
+  ]
+}

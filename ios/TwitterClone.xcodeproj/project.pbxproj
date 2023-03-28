@@ -14,6 +14,26 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-TwitterClone-TwitterCloneTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-TwitterClone-TwitterCloneTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		E13140CDF1454E638A7BA5EE /* NerkoOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1EB54AE5D97041D396E5E665 /* NerkoOne-Regular.ttf */; };
+		873BC4FC0A85400F9A97E4EB /* Overpass-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F5F3992BA3284BDDBCB6E312 /* Overpass-Black.ttf */; };
+		88898F9E1C4248E98B76CB11 /* Overpass-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1C49CCA8E207422CBBBB3AFE /* Overpass-Bold.ttf */; };
+		151544E2D4C14A99AEAAF749 /* Overpass-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5CE0DFEFB7DB407294C7F08E /* Overpass-ExtraLight.ttf */; };
+		575EE990C90C4F4F8F49EB8D /* Overpass-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7DC0186EF3F2477AAB9947C2 /* Overpass-Light.ttf */; };
+		08193E5EEBF34B579E1FA2F6 /* Overpass-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 79A4FB9402E64770B53D4D41 /* Overpass-Medium.ttf */; };
+		58ED3D19FD864C8D9C6F03FE /* Overpass-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1B495EABBA3F4E07A8AB065A /* Overpass-Regular.ttf */; };
+		F55E32573E294480A1D8C963 /* Overpass-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9C03F62F5DBB4F3692217C51 /* Overpass-Thin.ttf */; };
+		58FFD3D9B76843168F6D72E3 /* PatrickHand-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EAA6542477ED4F92997DDF57 /* PatrickHand-Regular.ttf */; };
+		CDB7AF806E9F470CB8B68097 /* Sono_Monospace-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66A85D9C55EE467C8ED2AF68 /* Sono_Monospace-Bold.ttf */; };
+		A8939AAB80D849AEABA9F342 /* Sono_Monospace-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E586036E1904CF58E5CF493 /* Sono_Monospace-ExtraBold.ttf */; };
+		0E30F32E930E4F438BEEE9A4 /* Sono_Monospace-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B022DAF45E3644FEB89E7032 /* Sono_Monospace-ExtraLight.ttf */; };
+		5389F8EDF7DC4170805DD017 /* Sono_Monospace-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1E19BDF0D3424737A0703134 /* Sono_Monospace-Light.ttf */; };
+		6CD04373D24A407CA12063C7 /* Sono_Monospace-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 21D860B756E94207A9D8123E /* Sono_Monospace-Medium.ttf */; };
+		0F52034B26224034B6CD5D90 /* Sono_Monospace-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B4B4F22519CD4E65A07DE7F1 /* Sono_Monospace-Regular.ttf */; };
+		35EBDE12CCA74E45BB9D9394 /* Sono_Monospace-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 74C5A1923F854DE197D67E24 /* Sono_Monospace-SemiBold.ttf */; };
+		9864D334292D4504AF43289D /* Ubuntu-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6AA807B218A344C79CAA5AD5 /* Ubuntu-Bold.ttf */; };
+		F958E78A4A7443F899F577E0 /* Ubuntu-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ACEF3A02024940F9BEF630EE /* Ubuntu-Light.ttf */; };
+		B3F7DC37D922401DBC861347 /* Ubuntu-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A32B8746083D4285868C2AD5 /* Ubuntu-Medium.ttf */; };
+		7CA164EC5C3D4BABBFE97FDC /* Ubuntu-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E9B15EB674E643C18B3F4C07 /* Ubuntu-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +64,26 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = TwitterClone/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-TwitterClone-TwitterCloneTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TwitterClone-TwitterCloneTests.release.xcconfig"; path = "Target Support Files/Pods-TwitterClone-TwitterCloneTests/Pods-TwitterClone-TwitterCloneTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		1EB54AE5D97041D396E5E665 /* NerkoOne-Regular.ttf */ = {isa = PBXFileReference; name = "NerkoOne-Regular.ttf"; path = "../assets/fonts/NerkoOne-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F5F3992BA3284BDDBCB6E312 /* Overpass-Black.ttf */ = {isa = PBXFileReference; name = "Overpass-Black.ttf"; path = "../assets/fonts/Overpass-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1C49CCA8E207422CBBBB3AFE /* Overpass-Bold.ttf */ = {isa = PBXFileReference; name = "Overpass-Bold.ttf"; path = "../assets/fonts/Overpass-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5CE0DFEFB7DB407294C7F08E /* Overpass-ExtraLight.ttf */ = {isa = PBXFileReference; name = "Overpass-ExtraLight.ttf"; path = "../assets/fonts/Overpass-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7DC0186EF3F2477AAB9947C2 /* Overpass-Light.ttf */ = {isa = PBXFileReference; name = "Overpass-Light.ttf"; path = "../assets/fonts/Overpass-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		79A4FB9402E64770B53D4D41 /* Overpass-Medium.ttf */ = {isa = PBXFileReference; name = "Overpass-Medium.ttf"; path = "../assets/fonts/Overpass-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1B495EABBA3F4E07A8AB065A /* Overpass-Regular.ttf */ = {isa = PBXFileReference; name = "Overpass-Regular.ttf"; path = "../assets/fonts/Overpass-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9C03F62F5DBB4F3692217C51 /* Overpass-Thin.ttf */ = {isa = PBXFileReference; name = "Overpass-Thin.ttf"; path = "../assets/fonts/Overpass-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EAA6542477ED4F92997DDF57 /* PatrickHand-Regular.ttf */ = {isa = PBXFileReference; name = "PatrickHand-Regular.ttf"; path = "../assets/fonts/PatrickHand-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		66A85D9C55EE467C8ED2AF68 /* Sono_Monospace-Bold.ttf */ = {isa = PBXFileReference; name = "Sono_Monospace-Bold.ttf"; path = "../assets/fonts/Sono_Monospace-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8E586036E1904CF58E5CF493 /* Sono_Monospace-ExtraBold.ttf */ = {isa = PBXFileReference; name = "Sono_Monospace-ExtraBold.ttf"; path = "../assets/fonts/Sono_Monospace-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B022DAF45E3644FEB89E7032 /* Sono_Monospace-ExtraLight.ttf */ = {isa = PBXFileReference; name = "Sono_Monospace-ExtraLight.ttf"; path = "../assets/fonts/Sono_Monospace-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1E19BDF0D3424737A0703134 /* Sono_Monospace-Light.ttf */ = {isa = PBXFileReference; name = "Sono_Monospace-Light.ttf"; path = "../assets/fonts/Sono_Monospace-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		21D860B756E94207A9D8123E /* Sono_Monospace-Medium.ttf */ = {isa = PBXFileReference; name = "Sono_Monospace-Medium.ttf"; path = "../assets/fonts/Sono_Monospace-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B4B4F22519CD4E65A07DE7F1 /* Sono_Monospace-Regular.ttf */ = {isa = PBXFileReference; name = "Sono_Monospace-Regular.ttf"; path = "../assets/fonts/Sono_Monospace-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		74C5A1923F854DE197D67E24 /* Sono_Monospace-SemiBold.ttf */ = {isa = PBXFileReference; name = "Sono_Monospace-SemiBold.ttf"; path = "../assets/fonts/Sono_Monospace-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6AA807B218A344C79CAA5AD5 /* Ubuntu-Bold.ttf */ = {isa = PBXFileReference; name = "Ubuntu-Bold.ttf"; path = "../assets/fonts/Ubuntu-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		ACEF3A02024940F9BEF630EE /* Ubuntu-Light.ttf */ = {isa = PBXFileReference; name = "Ubuntu-Light.ttf"; path = "../assets/fonts/Ubuntu-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A32B8746083D4285868C2AD5 /* Ubuntu-Medium.ttf */ = {isa = PBXFileReference; name = "Ubuntu-Medium.ttf"; path = "../assets/fonts/Ubuntu-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E9B15EB674E643C18B3F4C07 /* Ubuntu-Regular.ttf */ = {isa = PBXFileReference; name = "Ubuntu-Regular.ttf"; path = "../assets/fonts/Ubuntu-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +162,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				41BCB4F9412647E2926642BC /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -147,6 +188,34 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		41BCB4F9412647E2926642BC /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				1EB54AE5D97041D396E5E665 /* NerkoOne-Regular.ttf */,
+				F5F3992BA3284BDDBCB6E312 /* Overpass-Black.ttf */,
+				1C49CCA8E207422CBBBB3AFE /* Overpass-Bold.ttf */,
+				5CE0DFEFB7DB407294C7F08E /* Overpass-ExtraLight.ttf */,
+				7DC0186EF3F2477AAB9947C2 /* Overpass-Light.ttf */,
+				79A4FB9402E64770B53D4D41 /* Overpass-Medium.ttf */,
+				1B495EABBA3F4E07A8AB065A /* Overpass-Regular.ttf */,
+				9C03F62F5DBB4F3692217C51 /* Overpass-Thin.ttf */,
+				EAA6542477ED4F92997DDF57 /* PatrickHand-Regular.ttf */,
+				66A85D9C55EE467C8ED2AF68 /* Sono_Monospace-Bold.ttf */,
+				8E586036E1904CF58E5CF493 /* Sono_Monospace-ExtraBold.ttf */,
+				B022DAF45E3644FEB89E7032 /* Sono_Monospace-ExtraLight.ttf */,
+				1E19BDF0D3424737A0703134 /* Sono_Monospace-Light.ttf */,
+				21D860B756E94207A9D8123E /* Sono_Monospace-Medium.ttf */,
+				B4B4F22519CD4E65A07DE7F1 /* Sono_Monospace-Regular.ttf */,
+				74C5A1923F854DE197D67E24 /* Sono_Monospace-SemiBold.ttf */,
+				6AA807B218A344C79CAA5AD5 /* Ubuntu-Bold.ttf */,
+				ACEF3A02024940F9BEF630EE /* Ubuntu-Light.ttf */,
+				A32B8746083D4285868C2AD5 /* Ubuntu-Medium.ttf */,
+				E9B15EB674E643C18B3F4C07 /* Ubuntu-Regular.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -244,6 +313,26 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				E13140CDF1454E638A7BA5EE /* NerkoOne-Regular.ttf in Resources */,
+				873BC4FC0A85400F9A97E4EB /* Overpass-Black.ttf in Resources */,
+				88898F9E1C4248E98B76CB11 /* Overpass-Bold.ttf in Resources */,
+				151544E2D4C14A99AEAAF749 /* Overpass-ExtraLight.ttf in Resources */,
+				575EE990C90C4F4F8F49EB8D /* Overpass-Light.ttf in Resources */,
+				08193E5EEBF34B579E1FA2F6 /* Overpass-Medium.ttf in Resources */,
+				58ED3D19FD864C8D9C6F03FE /* Overpass-Regular.ttf in Resources */,
+				F55E32573E294480A1D8C963 /* Overpass-Thin.ttf in Resources */,
+				58FFD3D9B76843168F6D72E3 /* PatrickHand-Regular.ttf in Resources */,
+				CDB7AF806E9F470CB8B68097 /* Sono_Monospace-Bold.ttf in Resources */,
+				A8939AAB80D849AEABA9F342 /* Sono_Monospace-ExtraBold.ttf in Resources */,
+				0E30F32E930E4F438BEEE9A4 /* Sono_Monospace-ExtraLight.ttf in Resources */,
+				5389F8EDF7DC4170805DD017 /* Sono_Monospace-Light.ttf in Resources */,
+				6CD04373D24A407CA12063C7 /* Sono_Monospace-Medium.ttf in Resources */,
+				0F52034B26224034B6CD5D90 /* Sono_Monospace-Regular.ttf in Resources */,
+				35EBDE12CCA74E45BB9D9394 /* Sono_Monospace-SemiBold.ttf in Resources */,
+				9864D334292D4504AF43289D /* Ubuntu-Bold.ttf in Resources */,
+				F958E78A4A7443F899F577E0 /* Ubuntu-Light.ttf in Resources */,
+				B3F7DC37D922401DBC861347 /* Ubuntu-Medium.ttf in Resources */,
+				7CA164EC5C3D4BABBFE97FDC /* Ubuntu-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
